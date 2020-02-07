@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+    <string name="chat_title">Send and receive messages</string>
+    <string name="callMessages">Call Messages</string>
+    <string name="btSendMessage">Send Message</string>
+    <string name="btShowMessages">Show Messages</string>
+</resources>
